@@ -1,0 +1,4 @@
+info
+clear
+execute_script ufa.txt
+
